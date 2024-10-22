@@ -1,0 +1,6 @@
+%{
+  "dns": {:git, "https://github.com/xenomorphtech/elixir-dns-server.git", "bb319a0738fa92d7637c1d69d0c9e7197924cfc1", []},
+  "mitm": {:git, "https://github.com/xenomorphtech/mitm_ex.git", "d18d6b1f6dbd7870b87af31864ae3c91621753a8", []},
+  "protobuf_lite": {:hex, :protobuf_lite, "0.1.0", "7f1ad66fe3b74b7d0f2da276d8f263999ee55bc5119aaae8fcc430d7073d97c8", [:mix], [], "hexpm", "c588832eb24fc88575ecd60a7340aa83dc19f7e76d1a2c027e8e9b008a3cccb0"},
+  "socket": {:hex, :socket, "0.3.13", "98a2ab20ce17f95fb512c5cadddba32b57273e0d2dba2d2e5f976c5969d0c632", [:mix], [], "hexpm", "f82ea9833ef49dde272e6568ab8aac657a636acb4cf44a7de8a935acb8957c2e"},
+}
